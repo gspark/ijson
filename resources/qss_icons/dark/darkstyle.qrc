@@ -1,0 +1,9 @@
+
+<RCC warning="WARNING! File created programmatically. All changes made in this file will be lost!">
+  <qresource prefix="qss_icons/dark">
+    <file>rc/close.svg</file>
+    <file>rc/max.svg</file>
+    <file>rc/min.svg</file>
+    <file>rc/restore.svg</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/app.ico</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/json/array.png</file>
+        <file>icons/json/object.png</file>
+        <file>icons/json/null.png</file>
+        <file>icons/json/bool.png</file>
+        <file>icons/json/number.png</file>
+        <file>icons/json/string.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/splitter/h_left.png</file>
+        <file>icons/splitter/h_right.png</file>
+        <file>icons/splitter/v_down.png</file>
+        <file>icons/splitter/v_up.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/tool/newTab.png</file>
+        <file>icons/tool/format.png</file>
+        <file>icons/tool/compress.png</file>
+        <file>icons/tool/clear.png</file>
+        <file>icons/tool/find.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/search.png</file>
+        <file>icons/casesensitively.png</file>
+        <file>icons/wholewords.png</file>
+        <file>icons/regexp.png</file>
+        <file>icons/prev.png</file>
+        <file>icons/next.png</file>
+        <file>icons/close.png</file>
+    </qresource>
+</RCC>
