@@ -1,4 +1,4 @@
-# WeImages
+# iJson
 
 Json 可视化工具
 
@@ -7,7 +7,7 @@ Json 可视化工具
 |组件                          | 版本 |
 |:-                            |:-    |
 |Qt                            |6.7.0 |
-|Visual Studio Community 2022  |17.7.5|
+|Visual Studio Community 2022  |17.9.6|
 
 ## 特点
 
